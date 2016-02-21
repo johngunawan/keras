@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb 20 23:16:42 2016
-
-@author: John
-"""
-
 from __future__ import print_function
 
 import os
